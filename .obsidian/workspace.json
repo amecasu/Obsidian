@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 파싱 모듈.md",
+                "file": "Templates/Project management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터 파싱 모듈"
+              "title": "Project management"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 파싱 모듈.md",
+                "file": "Templates/Project management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 데이터 파싱 모듈"
+              "title": "Backlinks for Project management"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 파싱 모듈.md",
+                "file": "Templates/Project management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 데이터 파싱 모듈"
+              "title": "Outgoing links from Project management"
             }
           }
         ]
@@ -263,8 +263,9 @@
   },
   "active": "179419f3fc1697f7",
   "lastOpenFiles": [
-    "().md",
     "데이터 파싱 모듈.md",
+    "Templates/Project management.md",
+    "().md",
     "데이터 전처리 모듈.md",
     "0.temp/Untitled 19.md",
     "Templates/Meeting log.md",
@@ -299,7 +300,6 @@
     "attachments/Pasted image 20250502093056.png",
     "attachments/Pasted image 20250502093027.png",
     "0.temp/DIgitallization - Best practice sharing.md",
-    "1.daily/2025-04-30.md",
     "attachments/20250414_AHC SL - IPD Concept.pdf",
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
