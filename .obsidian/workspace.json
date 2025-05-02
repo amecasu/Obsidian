@@ -230,11 +230,13 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false,
       "periodic-notes:Open today": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "11f25bbe595ac821",
   "lastOpenFiles": [
+    "README.md",
     "0.temp/Best practice sharing RBTA.md",
     "attachments/Pasted image 20250502093340.png",
     "attachments/Pasted image 20250502093324.png",
