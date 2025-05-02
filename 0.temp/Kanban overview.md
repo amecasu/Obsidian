@@ -11,6 +11,7 @@ kanban-plugin: board
 	- [ ] work instruction
 	- [ ] check sheet
 	- [ ] 배포 및 공지
+- [ ] # (IDC 4월 증가원인파악 )
 
 
 ## Purchasing
