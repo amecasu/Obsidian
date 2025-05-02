@@ -11,11 +11,13 @@
 		{"id":"45726f260c47ff89","type":"text","text":"Database","x":-20,"y":350,"width":250,"height":60},
 		{"id":"07a16c60dfa49db5","type":"link","url":"https://coderzero.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-SSMSSQL-Server-Management-Studio-%EC%82%AC%EC%9A%A9%EB%B2%95","x":30,"y":760,"width":400,"height":400},
 		{"id":"259bb5dafe09aeda","type":"file","file":"0.temp/Data types.md","x":517,"y":504,"width":1323,"height":736},
-		{"id":"268feed9a3e3bf00","x":608,"y":1312,"width":1112,"height":888,"type":"file","file":"0.temp/project datatype.md"},
+		{"id":"268feed9a3e3bf00","type":"file","file":"0.temp/project datatype.md","x":608,"y":1312,"width":1112,"height":888},
 		{"id":"39384856659f03ab","type":"file","file":"데이터 전처리 모듈.md","x":-1408,"y":760,"width":400,"height":400},
 		{"id":"1fc6d66cc9bc98cf","type":"text","text":"# Modules","x":-2165,"y":380,"width":250,"height":60},
 		{"id":"8e6c6a04b0da172d","type":"file","file":"데이터 파싱 모듈.md","x":-1915,"y":760,"width":400,"height":400},
-		{"id":"9b6c7234b9fa8d91","type":"text","text":"# Taipy or streamlit","x":-960,"y":1853,"width":361,"height":75}
+		{"id":"9b6c7234b9fa8d91","type":"text","text":"# Taipy or streamlit","x":-960,"y":1853,"width":361,"height":75},
+		{"id":"b11401dbab66f025","x":-1880,"y":2600,"width":271,"height":260,"type":"text","text":"# OEE_processor\n\n- 직장님 oee파일에서 데이터 전처리하여 정리하는 함수들의 클래스"},
+		{"id":"8f73ca7e1a99f1b3","type":"text","text":"# batch_oee_extract\n\n- OEE_processor 활용하여 각 제품군, 라인 별 데이터를 뽑아주는 파일\n","x":-1500,"y":2648,"width":554,"height":165}
 	],
 	"edges":[
 		{"id":"def3829534cb4e6b","fromNode":"b5ab70bf05888b1f","fromSide":"bottom","toNode":"45726f260c47ff89","toSide":"right"},
@@ -28,6 +30,7 @@
 		{"id":"25d8154f5836908a","fromNode":"d462e97df8f03fc2","fromSide":"right","toNode":"122392678d5da04a","toSide":"left"},
 		{"id":"05496d32905cb4b8","fromNode":"ecc372110492883f","fromSide":"right","toNode":"d462e97df8f03fc2","toSide":"left"},
 		{"id":"5469730c700a8e3a","fromNode":"07a16c60dfa49db5","fromSide":"top","toNode":"45726f260c47ff89","toSide":"bottom"},
-		{"id":"e42df9ff452b5943","fromNode":"259bb5dafe09aeda","fromSide":"left","toNode":"45726f260c47ff89","toSide":"bottom"}
+		{"id":"e42df9ff452b5943","fromNode":"259bb5dafe09aeda","fromSide":"left","toNode":"45726f260c47ff89","toSide":"bottom"},
+		{"id":"eb34a7aec12c596a","fromNode":"b11401dbab66f025","fromSide":"right","toNode":"8f73ca7e1a99f1b3","toSide":"left"}
 	]
 }
