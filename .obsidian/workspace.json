@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.temp/전자서명, Citrix pw.md",
+                "file": "Templates/Project management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 전자서명, Citrix pw"
+              "title": "Outline of Project management"
             }
           },
           {
@@ -258,10 +258,12 @@
       "obsidian-kanban:Create new board": false,
       "periodic-notes:Open today": false,
       "card-board:CardBoard": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markwhen:Create new Markwhen file": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "179419f3fc1697f7",
+  "active": "9da805597a4076c2",
   "lastOpenFiles": [
     "데이터 파싱 모듈.md",
     "Templates/Project management.md",

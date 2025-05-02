@@ -13,5 +13,7 @@
   "templater-obsidian",
   "periodic-notes",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "tag-wrangler",
+  "markwhen"
 ]
