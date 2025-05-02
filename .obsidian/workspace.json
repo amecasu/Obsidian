@@ -28,19 +28,14 @@
             "id": "a3fe8c49e869d088",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0.temp/Kanban overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Templates/Daily work.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban overview"
+              "icon": "lucide-file",
+              "title": "Daily work"
             }
           },
           {
@@ -146,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "Templates/Daily work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for Daily work"
             }
           },
           {
@@ -165,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "Templates/Daily work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kanban overview"
+              "title": "Outgoing links from Daily work"
             }
           }
         ]
@@ -268,6 +263,7 @@
   },
   "active": "a3fe8c49e869d088",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
     "0.temp/업무일지 파일 구조 설계.md",
     "0.temp/1125 비전.md",
     "0.temp/P2S project.md",
@@ -275,7 +271,6 @@
     "0.temp/meeting with chen.md",
     "0.temp/MAEx.md",
     "0.temp/PQA_3d measuring equipment Leitz.md",
-    "0.temp/Kanban overview.md",
     "Untitled.md",
     "Untitled Kanban 1.md",
     "Task.md",
