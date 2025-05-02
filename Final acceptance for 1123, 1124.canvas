@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"353105dab70692a2","type":"text","text":"# Final Acceptance","x":-300,"y":-220,"width":385,"height":103},
+		{"id":"146c5b561c2b56c8","type":"text","text":"## 1123 \n- [x] ","x":-500,"y":-20,"width":240,"height":80},
+		{"id":"29c28db365301542","type":"text","text":"## 1124","x":-40,"y":-20,"width":250,"height":60},
+		{"id":"f8aa6f3e70331d3d","type":"text","text":"### FUSA\n- [x]  ✅ 2025-01-19","x":-720,"y":100,"width":260,"height":100},
+		{"id":"be97177fdfdbb558","type":"text","text":"### FUSA\n- [x] ","x":-200,"y":100,"width":240,"height":100},
+		{"id":"256498cf1a8c290a","type":"text","text":"#### Cpk\n- [ ] \n","x":-200,"y":240,"width":280,"height":80},
+		{"id":"b0394e05ed2c1514","type":"text","text":"#### MSA\n- [ ] \n","x":-195,"y":360,"width":280,"height":100},
+		{"id":"1877c0d995ff44d7","type":"text","text":"#### MSA\n- [x] ","x":-720,"y":360,"width":255,"height":100},
+		{"id":"875b700d38bbb82b","type":"text","text":"#### Cpk\n- [x] \n","x":-720,"y":240,"width":255,"height":80},
+		{"id":"6c9ae27290139c77","type":"file","file":"0.temp/공정능력 측정 list.md","x":-980,"y":760,"width":580,"height":1400},
+		{"id":"395f221ebc945204","type":"file","file":"0.temp/측정능력 분석 List.md","x":-360,"y":760,"width":400,"height":1400},
+		{"id":"a595395a45615168","type":"text","text":"#### FA\n- [ ] ","x":-720,"y":480,"width":255,"height":100},
+		{"id":"bcca6103d5c132b5","type":"text","text":"#### FA\n- [ ] ","x":-215,"y":480,"width":255,"height":100}
+	],
+	"edges":[
+		{"id":"759953d80d023231","fromNode":"f8aa6f3e70331d3d","fromSide":"top","toNode":"146c5b561c2b56c8","toSide":"bottom"},
+		{"id":"28504465b0a7a7ca","fromNode":"146c5b561c2b56c8","fromSide":"top","toNode":"353105dab70692a2","toSide":"bottom"},
+		{"id":"ecfe02d12e7b5569","fromNode":"be97177fdfdbb558","fromSide":"top","toNode":"29c28db365301542","toSide":"bottom"},
+		{"id":"a019e3f2b81336d9","fromNode":"875b700d38bbb82b","fromSide":"top","toNode":"146c5b561c2b56c8","toSide":"bottom"},
+		{"id":"822c26e4e154c1f0","fromNode":"1877c0d995ff44d7","fromSide":"top","toNode":"146c5b561c2b56c8","toSide":"bottom"},
+		{"id":"9cfee492a68173f2","fromNode":"256498cf1a8c290a","fromSide":"top","toNode":"29c28db365301542","toSide":"bottom"},
+		{"id":"2245cd31e073dfc3","fromNode":"b0394e05ed2c1514","fromSide":"top","toNode":"29c28db365301542","toSide":"bottom"},
+		{"id":"cdf3f40d26bd5be8","fromNode":"29c28db365301542","fromSide":"top","toNode":"353105dab70692a2","toSide":"bottom"},
+		{"id":"feadd1c78f2be531","fromNode":"875b700d38bbb82b","fromSide":"right","toNode":"6c9ae27290139c77","toSide":"top"},
+		{"id":"d37ba98e4c1625fe","fromNode":"256498cf1a8c290a","fromSide":"left","toNode":"6c9ae27290139c77","toSide":"top"},
+		{"id":"cb52042d3c5f2432","fromNode":"a595395a45615168","fromSide":"right","toNode":"146c5b561c2b56c8","toSide":"bottom"},
+		{"id":"6c532b1050fbc494","fromNode":"bcca6103d5c132b5","fromSide":"right","toNode":"29c28db365301542","toSide":"bottom"}
+	]
+}

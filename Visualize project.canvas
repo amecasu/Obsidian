@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"b5ab70bf05888b1f","type":"file","file":"OEE.md","x":-280,"y":-427,"width":1020,"height":528},
+		{"id":"25878b08e7482e14","type":"file","file":"Program.md","x":-1277,"y":-427,"width":400,"height":387},
+		{"id":"122392678d5da04a","type":"text","text":"# Visualization","x":-1327,"y":1860,"width":250,"height":60},
+		{"id":"6642e4c1c75d0d7a","type":"text","text":"# OEE 파일 컬럼명\n        merged_df.columns = [\n\n            \"W/C\", \"인원\", \"CT\", \"Shift\", \"Total Available Time(Hr)\",\n\n            \"Planded Operation Time(Hr)\", \"Net Production Time(Hr)\", \"생산량\",\n\n            \"총투입M/H\", \"실투입M/H\", \"OEE\", \"Productivity\",\n\n            \"Quality loss(Min)\", \"Quality loss(%)\", \"Technical loss(Min)\", \"Technical loss(%)\",\n\n            \"Change Over loss(Min)\", \"Change Over loss(%)\", \"Organization loss(Min)\",\n\n            \"Organization loss(%)\", \"Performance loss(Min)\", \"Performance loss(%)\",\n\n            \"Total loss(%)\", \"A011노조업무\", \"A021교육\", \"A031예비군 민방위\", \"A041 정규 휴식\",\n\n            \"A061 샘플제작\", \"A071 계획정지\", \"A081 예방정비\", \"A900 (기타)\",\n\n            \"Total A-Code(Min)\", \"C011 품질문제\", \"C012 수정작업\", \"C013 설비문제\", \"C014 결품\",\n\n            \"C015 기종전환\", \"C017 정리정돈\", \"C018 교육면담\", \"C019 TPM활동\",\n\n            \"C900 FIFO, (A900포함)\", \"Total C-Code(Min)\", \"A011 노조업무*인원수\",\n\n            \"A021교육*인원수\", \"A031예비군민방위*인원수\", \"A041정규 휴식*인원수\",\n\n            \"A061 샘플 제작* 인원수\", \"A071 계획정지*인원수\", \"A081 예방정비*인원수\",\n\n            \"A900 * 인원수\", \"A-Code*인원수 Total(Min)\", \"\",\n\n            \"Inline Failure(%)\", \"Inline Failure(pcs)\", \"Date\"\n\n        ]","x":-370,"y":-720,"width":410,"height":100},
+		{"id":"b30d9eb1c10ef46c","type":"text","text":"# oee 경로\n\n    ahc_oee_path=r\"W:\\MSE\\MSE_Common\\일일OEE Report 현황 -- 직장별\\이강윤직장\\2024년 OEE\\1127.1129.1174.1179 2024 OEE .xlsx\"\n\n    ahc8083_path =r\"W:\\MSE\\MSE_Common\\일일OEE Report 현황 -- 직장별\\김홍범직장\\2024년도\\OEE로스분석_MSE(1180.83)_ 2024.xlsx\"\n\n    fpg_oee_path=r\"W:\\MSE\\MSE_Common\\일일OEE Report 현황 -- 직장별\\김홍범직장\\2024년도\\OEE로스분석_MSE(FPG2)_2024.xls\"\n\n    fpc_oee_path =r\"W:\\MSE\\MSE_Common\\일일OEE Report 현황 -- 직장별\\백명오직장\\2024년도\\OEE로스분석_MSE(FPC)_2024.xls\"\n\n    shaft_oee_path = r\"\"","x":-180,"y":-1080,"width":1016,"height":302},
+		{"id":"7d1bdd204e27496d","type":"file","file":"재료.md","x":540,"y":-260,"width":560,"height":460},
+		{"id":"d462e97df8f03fc2","type":"text","text":"# Data processing","x":-1710,"y":1860,"width":313,"height":60},
+		{"id":"ecc372110492883f","type":"text","text":"# Data colleting","x":-2040,"y":1860,"width":250,"height":60},
+		{"id":"45726f260c47ff89","type":"text","text":"Database","x":-20,"y":350,"width":250,"height":60},
+		{"id":"07a16c60dfa49db5","type":"link","url":"https://coderzero.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-SSMSSQL-Server-Management-Studio-%EC%82%AC%EC%9A%A9%EB%B2%95","x":30,"y":760,"width":400,"height":400},
+		{"id":"259bb5dafe09aeda","type":"file","file":"0.temp/Data types.md","x":517,"y":504,"width":1323,"height":736},
+		{"id":"268feed9a3e3bf00","x":608,"y":1312,"width":1112,"height":888,"type":"file","file":"0.temp/project datatype.md"},
+		{"id":"39384856659f03ab","type":"file","file":"데이터 전처리 모듈.md","x":-1408,"y":760,"width":400,"height":400},
+		{"id":"1fc6d66cc9bc98cf","type":"text","text":"# Modules","x":-2165,"y":380,"width":250,"height":60},
+		{"id":"8e6c6a04b0da172d","type":"file","file":"데이터 파싱 모듈.md","x":-1915,"y":760,"width":400,"height":400},
+		{"id":"9b6c7234b9fa8d91","type":"text","text":"# Taipy or streamlit","x":-960,"y":1853,"width":361,"height":75}
+	],
+	"edges":[
+		{"id":"def3829534cb4e6b","fromNode":"b5ab70bf05888b1f","fromSide":"bottom","toNode":"45726f260c47ff89","toSide":"right"},
+		{"id":"6f07284286fcb6f4","fromNode":"7d1bdd204e27496d","fromSide":"bottom","toNode":"b5ab70bf05888b1f","toSide":"bottom"},
+		{"id":"e79ce773381dc05a","fromNode":"8e6c6a04b0da172d","fromSide":"top","toNode":"1fc6d66cc9bc98cf","toSide":"right"},
+		{"id":"fe1b3be9a45141a7","fromNode":"39384856659f03ab","fromSide":"top","toNode":"1fc6d66cc9bc98cf","toSide":"right"},
+		{"id":"96d310c767ae52cf","fromNode":"9b6c7234b9fa8d91","fromSide":"left","toNode":"122392678d5da04a","toSide":"right"},
+		{"id":"655415a53a0aaece","fromNode":"6642e4c1c75d0d7a","fromSide":"top","toNode":"b5ab70bf05888b1f","toSide":"top"},
+		{"id":"0a146c838d071278","fromNode":"b30d9eb1c10ef46c","fromSide":"top","toNode":"b5ab70bf05888b1f","toSide":"top"},
+		{"id":"25d8154f5836908a","fromNode":"d462e97df8f03fc2","fromSide":"right","toNode":"122392678d5da04a","toSide":"left"},
+		{"id":"05496d32905cb4b8","fromNode":"ecc372110492883f","fromSide":"right","toNode":"d462e97df8f03fc2","toSide":"left"},
+		{"id":"5469730c700a8e3a","fromNode":"07a16c60dfa49db5","fromSide":"top","toNode":"45726f260c47ff89","toSide":"bottom"},
+		{"id":"e42df9ff452b5943","fromNode":"259bb5dafe09aeda","fromSide":"left","toNode":"45726f260c47ff89","toSide":"bottom"}
+	]
+}
