@@ -17,7 +17,7 @@
 		{"id":"8e6c6a04b0da172d","type":"file","file":"데이터 파싱 모듈.md","x":-1915,"y":760,"width":400,"height":400},
 		{"id":"9b6c7234b9fa8d91","type":"text","text":"# Taipy or streamlit","x":-960,"y":1853,"width":361,"height":75},
 		{"id":"b11401dbab66f025","x":-1880,"y":2600,"width":271,"height":260,"type":"text","text":"# OEE_processor\n\n- 직장님 oee파일에서 데이터 전처리하여 정리하는 함수들의 클래스"},
-		{"id":"8f73ca7e1a99f1b3","type":"text","text":"# batch_oee_extract\n\n- OEE_processor 활용하여 각 제품군, 라인 별 데이터를 뽑아주는 파일\n","x":-1500,"y":2648,"width":554,"height":165}
+		{"id":"8f73ca7e1a99f1b3","type":"text","text":"# batch_oee_extract\n\n- OEE_processor 활용하여 각 제품군, 라인 별 데이터를 뽑아주는 파일\n\n### oee_sources에 직장님 파일경로 하드코딩 되어있음.\n### YEAR 도 하드코딩 되어있음.\n","x":-1500,"y":2648,"width":554,"height":165}
 	],
 	"edges":[
 		{"id":"def3829534cb4e6b","fromNode":"b5ab70bf05888b1f","fromSide":"bottom","toNode":"45726f260c47ff89","toSide":"right"},
