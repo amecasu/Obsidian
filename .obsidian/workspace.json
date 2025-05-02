@@ -23,8 +23,28 @@
               "icon": "lucide-layout-dashboard",
               "title": "Visualize project"
             }
+          },
+          {
+            "id": "a3fe8c49e869d088",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "0.temp/Kanban overview.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban overview"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visualize project.canvas",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Visualize project"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -117,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visualize project.canvas",
+                "file": "0.temp/Kanban overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Visualize project"
+              "title": "Outgoing links from Kanban overview"
             }
           }
         ]
@@ -218,8 +238,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9ea69576514025",
+  "active": "a3fe8c49e869d088",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled Kanban 1.md",
+    "Task.md",
+    "Visualize project.canvas",
+    "0.temp/Untitled Kanban 3.md",
     "1.daily/2025-05-02.md",
     "0.temp/Best practice sharing RBTA.md",
     "0.temp/Kanban overview.md",
@@ -238,7 +263,6 @@
     "attachments/Pasted image 20250502093027.png",
     "0.temp/DIgitallization - Best practice sharing.md",
     "1.daily/2025-04-30.md",
-    "Task.md",
     "2.weekly/2025-W13.md",
     "1.daily/2025-03-26.md",
     "1.daily/2025-03-21.md",
@@ -253,9 +277,6 @@
     "0.temp/Untitled 17.md",
     "0.temp/Untitled Kanban 2.md",
     "0.temp/2025-04-30.md",
-    "0.temp/AHC SL IPD concept 검토.md",
-    "1.daily/2025-04-28.md",
-    "2.weekly/2025-W18.md",
     "attachments/20250414_AHC SL - IPD Concept.pdf",
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
@@ -263,7 +284,6 @@
     "attachments/FW_ 고객사 아마추어 코일 쇼트에 의한 작동 불량 발생 .msg",
     "attachments/2025.03.11  광주 광명산업 AHC 2 NX4 RCM STD LH 2564 불량출장관련.xlsx",
     "Final acceptance for 1123, 1124.canvas",
-    "Visualize project.canvas",
     "Armature planner.canvas",
     "Untitled.canvas",
     "Kanban",
