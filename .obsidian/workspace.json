@@ -53,6 +53,20 @@
             }
           },
           {
+            "id": "32186661fabb7ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markwhen-view",
+              "state": {
+                "file": "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "markwhen-icon",
+              "title": "Markwhen 5-2-2025 14.12.27.mw"
+            }
+          },
+          {
             "id": "58fee6c0c2b52b10",
             "type": "leaf",
             "state": {
@@ -67,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project management.md",
+                "file": "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project management"
+              "title": "Backlinks for Markwhen 5-2-2025 14.12.27"
             }
           },
           {
@@ -160,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project management.md",
+                "file": "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Project management"
+              "title": "Outgoing links from Markwhen 5-2-2025 14.12.27"
             }
           }
         ]
@@ -196,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Project management.md",
+                "file": "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project management"
+              "title": "Outline of Markwhen 5-2-2025 14.12.27"
             }
           },
           {
@@ -263,10 +277,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9da805597a4076c2",
+  "active": "32186661fabb7ce7",
   "lastOpenFiles": [
-    "데이터 파싱 모듈.md",
+    "Markwhen/Markwhen 5-2-2025 14.12.34.mw",
+    "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
     "Templates/Project management.md",
+    "Markwhen",
+    "데이터 파싱 모듈.md",
     "().md",
     "데이터 전처리 모듈.md",
     "0.temp/Untitled 19.md",
@@ -301,7 +318,6 @@
     "attachments/Pasted image 20250502093130.png",
     "attachments/Pasted image 20250502093056.png",
     "attachments/Pasted image 20250502093027.png",
-    "0.temp/DIgitallization - Best practice sharing.md",
     "attachments/20250414_AHC SL - IPD Concept.pdf",
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
@@ -312,8 +328,6 @@
     "Armature planner.canvas",
     "Untitled.canvas",
     "Kanban",
-    "Templates",
-    "attachments/AW_ Used MAE for RBKB.msg",
-    "attachments/오버 와인딩 스펙 변경건.msg"
+    "Templates"
   ]
 }
