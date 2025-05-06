@@ -256,8 +256,6 @@
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open today": false,
-      "card-board:CardBoard": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
       "workspaces:Manage workspace layouts": false
