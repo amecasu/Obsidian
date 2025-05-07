@@ -14,7 +14,7 @@ control plan, FMEA 에서 process step의 숫자가 매칭안됨.
 - 제품 성능데이터 (performance tester)의 기종 별 참조치가 control plan에 나와있지 않았음. 명확하고 추적성이 없음. -> 테스터 옆에 붙여서 시각화함.
 - 'check status of performance tester' 문구를 'check the checker'로 변경함.
 - 부적합처리절차 시트 위치, 버전 확인해야함.
-- controlplan 체크시트 제작함. 최근 업데이트 있었으면 만들어 놓을 것.
+- controlplan 체크리스트 제작. 최근 업데이트 있었으면 만들어 놓을 것.
 # minor nonconformity #8 LPC
 - 3개월마다 LPC 리뷰를 해야함.
 
