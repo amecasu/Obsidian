@@ -17,4 +17,6 @@ control plan, FMEA 에서 process step의 숫자가 매칭안됨.
 - controlplan 체크시트 제작함. 최근 업데이트 있었으면 만들어 놓을 것.
 # minor nonconformity #8 LPC
 - 3개월마다 LPC 리뷰를 해야함.
-- 
+
+# OFI #2 ESD
+- 기존  체크시트 운용 시, 1회 체크 -> 오전 오후로 2회 체크로 변경함.
