@@ -20,6 +20,25 @@
               "icon": "lucide-file",
               "title": "2025-05-07"
             }
+          },
+          {
+            "id": "bae054f3e1008709",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "0.temp/Kanban overview.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban overview"
+            }
           }
         ]
       }
@@ -218,10 +237,11 @@
   },
   "active": "32186661fabb7ce7",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
+    "1.daily/2025-05-07.md",
     "Visualize project.canvas",
     "데이터 전처리 모듈.md",
     "Templates/Project management.md",
-    "1.daily/2025-05-07.md",
     "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
     "1.daily/2025-04-30.md",
     "0.temp/업무일지 파일 구조 설계.md",
@@ -235,7 +255,6 @@
     "1.daily/2025-05-02.md",
     "1.daily/2025-05-01.md",
     "Templates/Daily work.md",
-    "0.temp/Kanban overview.md",
     "0.temp/1125 비전.md",
     "0.temp/P2S project.md",
     "0.temp/P2S EM contact.md",
