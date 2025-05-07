@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.temp/System audit 대비 summary 2025.md",
+                "file": "1.daily/2025-05-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System audit 대비 summary 2025"
+              "title": "2025-05-08"
             }
           },
           {
@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/System audit 대비 summary 2025.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for System audit 대비 summary 2025"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -250,9 +250,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "44e5aed53e84b6cc",
+  "active": "bae054f3e1008709",
   "lastOpenFiles": [
     "1.daily/2025-05-07.md",
+    "1.daily/2025-05-08.md",
     "0.temp/System audit 대비 summary 2025.md",
     "0.temp/Kanban overview.md",
     "Visualize project.canvas",
@@ -281,7 +282,6 @@
     "Untitled Kanban 1.md",
     "Task.md",
     "0.temp/Untitled Kanban 3.md",
-    "0.temp/Best practice sharing RBTA.md",
     "attachments/Pasted image 20250502093340.png",
     "attachments/Pasted image 20250502093324.png",
     "attachments/Pasted image 20250502093313.png",

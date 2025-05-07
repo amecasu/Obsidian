@@ -12,6 +12,13 @@ kanban-plugin: board
 	- [ ] check sheet
 	- [ ] 배포 및 공지
 - [ ] # (IDC 4월 증가원인파악 )
+- [ ] # FMEA training
+	- [ ] 교육자료 준비
+- [ ] # 1127 코어이송로봇 교체작업
+	- [ ] 구매진행
+	- [ ] 공사일정 수립
+	- [ ] 환경안전 서류 작성
+	- [ ]
 
 
 ## Purchasing
