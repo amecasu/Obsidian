@@ -11,7 +11,6 @@ kanban-plugin: board
 	- [ ] work instruction
 	- [ ] check sheet
 	- [ ] 배포 및 공지
-- [ ] # (IDC 4월 증가원인파악 )
 - [ ] # FMEA training
 	- [ ] 교육자료 준비
 - [ ] # 1127 코어이송로봇 교체작업
