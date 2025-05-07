@@ -11,4 +11,4 @@ control plan, FMEA 에서 process step의 숫자가 매칭안됨.
 # minor nonconformity #7 controlplan
 - 컨트롤플랜 업데이트 시, CP 번호 중 중간 '000' -> 해당 VS 최신 기종 끝 3자리로 변경 필요함. 
   2-1A2A-**000**-223-32
-- 
+- 제품 성능데이터 (performance tester)의 기종 별 참조치가 control plan에 나와있지 않았음. 명확하고 추적성이 없음. -> 테스터 옆에 붙여서 시각화함.
