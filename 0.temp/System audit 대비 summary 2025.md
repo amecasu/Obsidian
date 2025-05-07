@@ -27,4 +27,6 @@ control plan, FMEA 에서 process step의 숫자가 매칭안됨.
 
 
 # Minor nonconformity #10
-- ESD auditor 인증 과정
+- ESD auditor 인증 안받음. -> RBKR에서 support하기로 함.
+
+# OFI 
