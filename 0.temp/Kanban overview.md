@@ -22,6 +22,7 @@ kanban-plugin: board
 	- [x] 1. 문서 업데이트 ✅ 2025-05-08
 	- [ ] 2.  문서 사인받기
 	- [ ] 3. 황부장님께 이메일
+- [ ] shelf life
 
 
 ## Purchasing

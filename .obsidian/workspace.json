@@ -54,49 +54,9 @@
               "icon": "lucide-trello",
               "title": "Kanban overview"
             }
-          },
-          {
-            "id": "45f63356a872c9af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-20 15.31.45.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 15.31.45.excalidraw"
-            }
-          },
-          {
-            "id": "306e9ea3d59ff5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.temp/MAEx.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MAEx"
-            }
-          },
-          {
-            "id": "a93857bf6a9edc2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.temp/System audit 대비 summary 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "System audit 대비 summary 2025"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1128",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,17 +131,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-20 15.31.45.excalidraw.md",
+                "file": "1.daily/2025-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-03-20 15.31.45.excalidraw"
+              "title": "Backlinks for 2025-05-08"
             }
           },
           {
@@ -269,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,17 +252,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "45f63356a872c9af",
+  "active": "44e5aed53e84b6cc",
   "lastOpenFiles": [
+    "1.daily/2025-05-07.md",
+    "1.daily/2025-05-08.md",
+    "0.temp/Kanban overview.md",
+    "Excalidraw/Drawing 2025-03-20 15.31.45.excalidraw.md",
     "Excalidraw/Drawing 2025-04-22 16.32.48.excalidraw.md",
     "Excalidraw/1124 샤프트압입 고장알람 추가.excalidraw.md",
     "0.temp/런아웃 측정기 구매 건 - FASO.md",
     "0.temp/Untitled 20.md",
-    "0.temp/Kanban overview.md",
     "0.temp/System audit 대비 summary 2025.md",
     "0.temp/KBWS scrapping.md",
-    "1.daily/2025-05-07.md",
-    "1.daily/2025-05-08.md",
     "0.temp/MAEx.md",
     "attachments/Pasted image 20250508105112.png",
     "attachments/Pasted image 20250508105044.png",
@@ -324,7 +286,6 @@
     "0.temp/1125 비전.md",
     "0.temp/P2S project.md",
     "0.temp/P2S EM contact.md",
-    "0.temp/meeting with chen.md",
     "attachments/Pasted image 20250502093340.png",
     "attachments/Pasted image 20250502093324.png",
     "attachments/Pasted image 20250502093313.png",
