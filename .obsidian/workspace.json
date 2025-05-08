@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#구매",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,10 +254,10 @@
   },
   "active": "bae054f3e1008709",
   "lastOpenFiles": [
-    "0.temp/2025-06-30.md",
+    "1.daily/2025-05-07.md",
     "1.daily/2025-05-08.md",
     "0.temp/Kanban overview.md",
-    "1.daily/2025-05-07.md",
+    "0.temp/2025-06-30.md",
     "Excalidraw/Drawing 2025-03-20 15.31.45.excalidraw.md",
     "Excalidraw/Drawing 2025-04-22 16.32.48.excalidraw.md",
     "Excalidraw/1124 샤프트압입 고장알람 추가.excalidraw.md",
