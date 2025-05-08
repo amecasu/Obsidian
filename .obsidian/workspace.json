@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.daily/2025-05-09.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-09"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -251,10 +251,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "669e3092ff5310bb",
+  "active": "bae054f3e1008709",
   "lastOpenFiles": [
-    "1.daily/2025-05-08.md",
     "1.daily/2025-05-09.md",
+    "1.daily/2025-05-08.md",
     "0.temp/Kanban overview.md",
     "1.daily/2025-05-07.md",
     "0.temp/2025-06-30.md",
