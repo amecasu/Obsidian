@@ -82,8 +82,7 @@
               "title": "KBWS scrapping"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.daily/2025-05-08.md",
+                "file": "1.daily/2025-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-08"
+              "title": "Backlinks for 2025-05-07"
             }
           },
           {
@@ -278,14 +277,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "44e5aed53e84b6cc",
+  "active": "32186661fabb7ce7",
   "lastOpenFiles": [
+    "1.daily/2025-05-08.md",
     "0.temp/Kanban overview.md",
     "0.temp/KBWS scrapping.md",
     "0.temp/MAEx.md",
     "attachments/Pasted image 20250508105112.png",
     "attachments/Pasted image 20250508105044.png",
-    "1.daily/2025-05-08.md",
     "1.daily/2025-05-07.md",
     "0.temp/System audit 대비 summary 2025.md",
     "Visualize project.canvas",
