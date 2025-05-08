@@ -54,8 +54,7 @@
               "title": "Kanban overview"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-07"
             }
           },
           {
@@ -246,15 +245,16 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bae054f3e1008709",
+  "active": "32186661fabb7ce7",
   "lastOpenFiles": [
-    "1.daily/2025-05-07.md",
     "1.daily/2025-05-08.md",
-    "0.temp/System audit 대비 summary 2025.md",
     "0.temp/Kanban overview.md",
+    "1.daily/2025-05-07.md",
+    "0.temp/System audit 대비 summary 2025.md",
     "Visualize project.canvas",
     "데이터 전처리 모듈.md",
     "Templates/Project management.md",
