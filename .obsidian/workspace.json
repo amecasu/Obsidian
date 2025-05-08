@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "45f63356a872c9af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-20 15.31.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-20 15.31.45.excalidraw"
+            }
+          },
+          {
             "id": "306e9ea3d59ff5d3",
             "type": "leaf",
             "state": {
@@ -84,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "Excalidraw/Drawing 2025-03-20 15.31.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for Drawing 2025-03-20 15.31.45.excalidraw"
             }
           },
           {
@@ -279,13 +291,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bae054f3e1008709",
+  "active": "45f63356a872c9af",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-22 16.32.48.excalidraw.md",
+    "Excalidraw/1124 샤프트압입 고장알람 추가.excalidraw.md",
+    "0.temp/런아웃 측정기 구매 건 - FASO.md",
+    "0.temp/Untitled 20.md",
+    "0.temp/Kanban overview.md",
     "0.temp/System audit 대비 summary 2025.md",
     "0.temp/KBWS scrapping.md",
     "1.daily/2025-05-07.md",
     "1.daily/2025-05-08.md",
-    "0.temp/Kanban overview.md",
     "0.temp/MAEx.md",
     "attachments/Pasted image 20250508105112.png",
     "attachments/Pasted image 20250508105044.png",
@@ -309,9 +325,6 @@
     "0.temp/P2S project.md",
     "0.temp/P2S EM contact.md",
     "0.temp/meeting with chen.md",
-    "0.temp/PQA_3d measuring equipment Leitz.md",
-    "Untitled.md",
-    "Untitled Kanban 1.md",
     "attachments/Pasted image 20250502093340.png",
     "attachments/Pasted image 20250502093324.png",
     "attachments/Pasted image 20250502093313.png",
