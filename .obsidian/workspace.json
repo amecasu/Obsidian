@@ -46,6 +46,7 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
                     false
                   ]
                 }
@@ -74,15 +75,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.temp/KBWS scrapping.md",
+                "file": "0.temp/System audit 대비 summary 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KBWS scrapping"
+              "title": "System audit 대비 summary 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.daily/2025-05-07.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-07"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -277,16 +279,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32186661fabb7ce7",
+  "active": "bae054f3e1008709",
   "lastOpenFiles": [
+    "0.temp/System audit 대비 summary 2025.md",
+    "0.temp/KBWS scrapping.md",
+    "1.daily/2025-05-07.md",
     "1.daily/2025-05-08.md",
     "0.temp/Kanban overview.md",
-    "0.temp/KBWS scrapping.md",
     "0.temp/MAEx.md",
     "attachments/Pasted image 20250508105112.png",
     "attachments/Pasted image 20250508105044.png",
-    "1.daily/2025-05-07.md",
-    "0.temp/System audit 대비 summary 2025.md",
     "Visualize project.canvas",
     "데이터 전처리 모듈.md",
     "Templates/Project management.md",

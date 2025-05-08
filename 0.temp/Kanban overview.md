@@ -41,10 +41,14 @@ kanban-plugin: board
 	-  금액이 1775만원이라, 먼저 물어보고 진행할 것.
 
 
+## 불량
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
