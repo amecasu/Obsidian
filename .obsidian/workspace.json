@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/KBWS scrapping.md",
+                "file": "1.daily/2025-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KBWS scrapping"
+              "title": "Backlinks for 2025-05-08"
             }
           },
           {
@@ -278,14 +278,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a93857bf6a9edc2b",
+  "active": "44e5aed53e84b6cc",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
+    "0.temp/KBWS scrapping.md",
+    "0.temp/MAEx.md",
     "attachments/Pasted image 20250508105112.png",
     "attachments/Pasted image 20250508105044.png",
-    "0.temp/MAEx.md",
-    "0.temp/KBWS scrapping.md",
     "1.daily/2025-05-08.md",
-    "0.temp/Kanban overview.md",
     "1.daily/2025-05-07.md",
     "0.temp/System audit 대비 summary 2025.md",
     "Visualize project.canvas",
@@ -319,7 +319,6 @@
     "attachments/Pasted image 20250502093222.png",
     "attachments/Pasted image 20250502093156.png",
     "attachments/Pasted image 20250502093130.png",
-    "attachments/Pasted image 20250502093056.png",
     "attachments/20250414_AHC SL - IPD Concept.pdf",
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
