@@ -3,12 +3,15 @@
 > [!불량 유형에 따른 영향 분석] 불량 유형에 따른 영향분석
 > 제품/공정 개발 단계에서 품질 예방 차원의 분석 방법
 > 
-> not requiered by a law, but essential
+> not requiered by a law, but essential 
+> 위험분석, 예방을 위해, 잠재적인 위험 분석은 의무
 
 # 방법의 적용과 효율 곡선
 ![[Pasted image 20250509142517.png]]|> message : 일찍 발견하면 비용이 적게 든다.
 
-
+# FMEA should be...
+1. CLEAR 
+	1. 
 
 
 
