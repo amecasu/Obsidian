@@ -8,7 +8,7 @@
 
 # 방법의 적용과 효율 곡선
 ![[Pasted image 20250509142517.png]]|> message : 일찍 발견하면 비용이 적게 든다.
-
+유형에는 PFMEA, DFMEA 두 가지가 있음.
 # FMEA should be...
 1. CLEAR
 	- 오역이 없도록 정확하게 작성한다.
@@ -27,9 +27,11 @@
 - 0마일리지, 플랜트 내부에서 발견된 즉각적인 불량이 있는 경우
 - Negative finding이 발견될 경우
 
+### SCOPE
+![[Pasted image 20250509143032.png]]
 
-
-
+### release process
+![[Pasted image 20250509143053.png]]
 
 
 
