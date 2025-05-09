@@ -32,7 +32,7 @@
 
 ### release process
 ![[Pasted image 20250509143053.png]]
-
+- release 하면서 중간에 파생되는 다른 문제가 발생될 수 있기에 early release를 중간중간 넣는 방식으로 진행됨.
 
 
 
