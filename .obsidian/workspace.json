@@ -25,20 +25,14 @@
             "id": "bae054f3e1008709",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0.temp/Kanban overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "1.daily/2025-05-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban overview"
+              "icon": "lucide-file",
+              "title": "2025-05-09"
             }
           },
           {
@@ -70,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +138,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/FMEA.md",
-                "collapseAll": false,
+                "file": "1.daily/2025-05-09.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -154,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FMEA"
+              "title": "Backlinks for 2025-05-09"
             }
           },
           {
@@ -265,8 +259,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "152f19a6220ecbae",
+  "active": "0607b4fc80ac1610",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
+    "1.daily/2025-05-12.md",
+    "0.temp/FMEA.md",
+    "0.temp/포밍기 정비이력 및 문제 히스토리 파악.md",
     "attachments/Pasted image 20250509143203.png",
     "attachments/Pasted image 20250509143053.png",
     "attachments/Pasted image 20250509143032.png",
@@ -276,10 +274,6 @@
     "attachments/TQ013_2022_EN_Handout.pdf",
     "attachments/TQ012_2021_EN_Handout.pdf",
     "attachments/Pasted image 20250509140107.png",
-    "0.temp/FMEA.md",
-    "0.temp/Kanban overview.md",
-    "0.temp/포밍기 정비이력 및 문제 히스토리 파악.md",
-    "1.daily/2025-05-12.md",
     "1.daily/2025-05-09.md",
     "1.daily/2025-05-07.md",
     "1.daily/2025-05-08.md",
@@ -309,7 +303,6 @@
     "Templates/Failure report.md",
     "attachments/Pasted image 20250502093340.png",
     "attachments/Pasted image 20250502093324.png",
-    "attachments/Pasted image 20250502093313.png",
     "attachments/20250414_AHC SL - IPD Concept.pdf",
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
