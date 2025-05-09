@@ -5,8 +5,15 @@
 > 
 > not requiered by a law, but essential
 
-# 
-> 
+# 방법의 적용과 효율 곡선
+![[Pasted image 20250509142517.png]]|> message : 일찍 발견하면 비용이 적게 든다.
+
+
+
+
+
+
+
 
 
 ![[Pasted image 20250509140107.png]]https://connect.bosch.com/communities/service/html/communityview?communityUuid=0ee0e190-eb14-4054-93d4-0b48412ce4c4#fullpageWidgetId=W7e3bc9b52589_46ac_ade5_c7551c46313a
