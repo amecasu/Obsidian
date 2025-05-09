@@ -34,8 +34,10 @@
 ![[Pasted image 20250509143053.png]]
 - release 하면서 중간에 파생되는 다른 문제가 발생될 수 있기에 early release를 중간중간 넣는 방식으로 진행됨.
 
+# 7 Steps for creating an FMEA
+![[Pasted image 20250509143203.png]]
 
 
 
-![[Pasted image 20250509140107.png]]https://connect.bosch.com/communities/service/html/communityview?communityUuid=0ee0e190-eb14-4054-93d4-0b48412ce4c4#fullpageWidgetId=W7e3bc9b52589_46ac_ade5_c7551c46313a
+https://connect.bosch.com/communities/service/html/communityview?communityUuid=0ee0e190-eb14-4054-93d4-0b48412ce4c4#fullpageWidgetId=W7e3bc9b52589_46ac_ade5_c7551c46313a
 ![[QM-TQ011_2021_EN_Handout.pdf]]![[TQ012_2021_EN_Handout.pdf]]![[TQ013_2022_EN_Handout.pdf]]
