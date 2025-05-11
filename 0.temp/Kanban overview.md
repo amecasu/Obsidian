@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] # shelf life
 	영주님께 shelf life 만료 재고 중 전달 받은 리스트 requalification 여부 묻기.
 - [ ] 4월 AUC 자산 대체
+- [ ] eLPC 통계 요약 방법 고려하기 - with 현구님
 
 
 ## Purchasing
