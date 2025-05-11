@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.daily/2025-05-12.md",
+                "file": "0.temp/System audit 대비 summary 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-12"
+              "title": "System audit 대비 summary 2025"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.temp/FMEA.md",
+                "file": "1.daily/2025-05-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FMEA"
+              "title": "2025-05-12"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "Kanban overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,12 +251,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bae054f3e1008709",
+  "active": "152f19a6220ecbae",
   "lastOpenFiles": [
-    "1.daily/2025-05-09.md",
-    "1.daily/2025-05-12.md",
     "0.temp/FMEA.md",
+    "0.temp/System audit 대비 summary 2025.md",
     "0.temp/Kanban overview.md",
+    "1.daily/2025-05-12.md",
+    "1.daily/2025-05-09.md",
     "0.temp/포밍기 정비이력 및 문제 히스토리 파악.md",
     "attachments/Pasted image 20250509143203.png",
     "attachments/Pasted image 20250509143053.png",
@@ -274,7 +276,6 @@
     "Excalidraw/1124 샤프트압입 고장알람 추가.excalidraw.md",
     "0.temp/런아웃 측정기 구매 건 - FASO.md",
     "0.temp/Untitled 20.md",
-    "0.temp/System audit 대비 summary 2025.md",
     "0.temp/KBWS scrapping.md",
     "0.temp/MAEx.md",
     "attachments/Pasted image 20250508105112.png",
