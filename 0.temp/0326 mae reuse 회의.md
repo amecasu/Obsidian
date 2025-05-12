@@ -43,9 +43,9 @@ short chat with mario
 koelsch axel 과의 대화
 
 
-- [ ] layout
+- [x] layout ✅ 2025-05-12
 
-- [ ] pallette
+- [x] pallette ✅ 2025-05-12
 
 - [ ] 380v 60hz
 
