@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-12"
             }
           },
           {
@@ -251,12 +251,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d75a83ef5430e367",
+  "active": "152f19a6220ecbae",
   "lastOpenFiles": [
-    "1.daily/2025-05-12.md",
-    "0.temp/FMEA.md",
     "0.temp/System audit 대비 summary 2025.md",
     "0.temp/Kanban overview.md",
+    "1.daily/2025-05-12.md",
+    "0.temp/FMEA.md",
     "1.daily/2025-05-09.md",
     "0.temp/포밍기 정비이력 및 문제 히스토리 파악.md",
     "attachments/Pasted image 20250509143203.png",
