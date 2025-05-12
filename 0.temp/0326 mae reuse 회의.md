@@ -40,14 +40,17 @@ short chat with mario
 
 [[2025-05-12]]
 
-layout 
+koelsch axel 과의 대화
 
-pallette
 
-380v 60hz
+- [ ] layout
 
-voltage stabilizer 여부
+- [ ] pallette
 
-supplier
+- [ ] 380v 60hz
 
-dimension of current testbench
+- [ ] voltage stabilizer 여부
+
+- [ ] supplier
+
+- [ ] dimension of current testbench
