@@ -247,8 +247,7 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "152f19a6220ecbae",
