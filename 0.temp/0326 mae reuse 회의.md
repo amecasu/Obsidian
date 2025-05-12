@@ -48,3 +48,6 @@ pallette
 
 voltage stabilizer 여부
 
+supplier
+
+dimension of current testbench
