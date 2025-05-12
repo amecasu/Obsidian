@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.temp/Armature line transfer question.md",
+                "file": "0.temp/0326 mae reuse 회의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armature line transfer question"
+              "title": "0326 mae reuse 회의"
             }
           },
           {
@@ -69,7 +69,8 @@
               "title": "System audit 대비 summary 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.daily/2025-05-12.md",
+                "file": "0.temp/0326 mae reuse 회의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-12"
+              "title": "Backlinks for 0326 mae reuse 회의"
             }
           },
           {
@@ -264,11 +265,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "152f19a6220ecbae",
+  "active": "1215c97431160e31",
   "lastOpenFiles": [
-    "0.temp/System audit 대비 summary 2025.md",
-    "1.daily/2025-05-12.md",
     "0.temp/Armature line transfer question.md",
+    "1.daily/2025-05-12.md",
+    "0.temp/System audit 대비 summary 2025.md",
     "attachments/Pasted image 20250512163525.png",
     "0.temp/Kanban overview.md",
     "0.temp/FMEA.md",

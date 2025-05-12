@@ -36,4 +36,15 @@ June~July start
 short chat with mario
 
 - 사이즈 너무커서.. 아웃라인 이메일 보내주기로함.
-- 
+
+
+[[2025-05-12]]
+
+layout 
+
+pallette
+
+380v 60hz
+
+voltage stabilizer 여부
+
