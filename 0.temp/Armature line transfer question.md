@@ -3,4 +3,5 @@ Ebert Anne (EM-IB/MFC) <AnneKerstin.Ebert@de.bosch.com>, dushik chang, KBWS ë°©ì
 
 1. start of relocation : release, BV release -? preparing.
 2. SSC strategic side concept
-3. 
+3. ![[Pasted image 20250512163525.png]]
+4. 
