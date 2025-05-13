@@ -83,8 +83,7 @@
               "title": "AHC armature 생산물량 비교"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-13"
             }
           },
           {
@@ -279,18 +278,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d75a83ef5430e367",
+  "active": "152f19a6220ecbae",
   "lastOpenFiles": [
     "0.temp/AHC armature 생산물량 비교.md",
-    "1.daily/2025-05-13.md",
+    "0.temp/Kanban overview.md",
     "0.temp/0326 mae reuse 회의.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
+    "1.daily/2025-05-13.md",
     "Templates/Failure report.md",
     "attachments/Pasted image 20250513122039.png",
     "1.daily/2025-05-12.md",
     "Templates/Daily work.md",
     "0.temp/AHC SL IPD concept 검토.md",
-    "0.temp/Kanban overview.md",
     "0.temp/System audit 대비 summary 2025.md",
     "0.temp/Armature line transfer question.md",
     "attachments/Pasted image 20250512163525.png",
