@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/AHC armature 생산물량 비교.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AHC armature 생산물량 비교"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -279,7 +279,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a04ef903da411bb",
+  "active": "d75a83ef5430e367",
   "lastOpenFiles": [
     "0.temp/AHC armature 생산물량 비교.md",
     "1.daily/2025-05-13.md",
