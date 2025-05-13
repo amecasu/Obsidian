@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.daily/2025-05-13.md",
+                "file": "Templates/Failure report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-13"
+              "title": "Failure report"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.daily/2025-05-13.md",
+                "file": "Templates/Failure report.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-13"
+              "title": "Backlinks for Failure report"
             }
           },
           {
@@ -267,8 +267,9 @@
   },
   "active": "773322ae9c7ba403",
   "lastOpenFiles": [
-    "1.daily/2025-05-12.md",
+    "Templates/Daily work.md",
     "1.daily/2025-05-13.md",
+    "1.daily/2025-05-12.md",
     "0.temp/AHC SL IPD concept 검토.md",
     "0.temp/Kanban overview.md",
     "0.temp/0326 mae reuse 회의.md",
@@ -308,7 +309,6 @@
     "Markwhen/Markwhen 5-2-2025 14.12.34.mw",
     "Markwhen",
     "데이터 파싱 모듈.md",
-    "().md",
     "attachments/Pasted image 20250502093340.png",
     "attachments/20250414_AHC SL - IPD Concept.pdf",
     "attachments/8D OJT 자료 공유 건.msg",
