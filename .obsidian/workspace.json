@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.daily/2025-05-12.md",
+                "file": "1.daily/2025-05-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-12"
+              "title": "2025-05-14"
             }
           },
           {
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/0326 mae reuse 회의.md",
+                "file": "0.temp/AHC armature 생산물량 비교.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0326 mae reuse 회의"
+              "title": "Backlinks for AHC armature 생산물량 비교"
             }
           },
           {
@@ -279,14 +279,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1215c97431160e31",
+  "active": "6a04ef903da411bb",
   "lastOpenFiles": [
-    "0.temp/AHC armature 생산물량 비교.md",
-    "0.temp/Kanban overview.md",
+    "1.daily/2025-05-14.md",
     "1.daily/2025-05-13.md",
-    "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "1.daily/2025-05-12.md",
     "0.temp/0326 mae reuse 회의.md",
+    "0.temp/AHC armature 생산물량 비교.md",
+    "0.temp/Kanban overview.md",
+    "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "Templates/Failure report.md",
     "attachments/Pasted image 20250513122039.png",
     "Templates/Daily work.md",
@@ -320,7 +321,6 @@
     "attachments/Pasted image 20250508105044.png",
     "Visualize project.canvas",
     "데이터 전처리 모듈.md",
-    "Templates/Project management.md",
     "Markwhen/Markwhen 5-2-2025 14.12.27.mw",
     "Markwhen/Markwhen 5-2-2025 14.12.34.mw",
     "Markwhen",
@@ -328,8 +328,4 @@
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
     "attachments/Recording 20250326163016.m4a",
-    "Final acceptance for 1123, 1124.canvas",
-    "Armature planner.canvas",
-    "Untitled.canvas"
-  ]
-}
+    "Final acceptance for 1123, 1124
