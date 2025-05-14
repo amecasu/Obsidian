@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/AHC armature 생산물량 비교.md",
+                "file": "0.temp/0326 mae reuse 회의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AHC armature 생산물량 비교"
+              "title": "Backlinks for 0326 mae reuse 회의"
             }
           },
           {
@@ -279,13 +279,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a04ef903da411bb",
+  "active": "1215c97431160e31",
   "lastOpenFiles": [
+    "0.temp/AHC armature 생산물량 비교.md",
     "1.daily/2025-05-14.md",
     "1.daily/2025-05-13.md",
     "1.daily/2025-05-12.md",
     "0.temp/0326 mae reuse 회의.md",
-    "0.temp/AHC armature 생산물량 비교.md",
     "0.temp/Kanban overview.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "Templates/Failure report.md",
@@ -328,4 +328,8 @@
     "attachments/8D OJT 자료 공유 건.msg",
     "attachments/CA_ AHC Second Life_Accelerated SOP IPD.pdf",
     "attachments/Recording 20250326163016.m4a",
-    "Final acceptance for 1123, 1124
+    "Final acceptance for 1123, 1124.canvas",
+    "Armature planner.canvas",
+    "Untitled.canvas"
+  ]
+}
