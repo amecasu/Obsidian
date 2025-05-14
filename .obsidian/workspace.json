@@ -83,8 +83,7 @@
               "title": "재고 조회"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/재고 조회.md",
+                "file": "1.daily/2025-05-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 재고 조회"
+              "title": "Backlinks for 2025-05-13"
             }
           },
           {
@@ -275,16 +274,17 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "efac28b1d920d885",
+  "active": "d5048dc2c69521ad",
   "lastOpenFiles": [
-    "0.temp/1127 1129.md",
-    "0.temp/재고 조회.md",
     "1.daily/2025-05-14.md",
-    "0.temp/Kanban overview.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
+    "0.temp/Kanban overview.md",
+    "0.temp/재고 조회.md",
+    "0.temp/1127 1129.md",
     "0.temp/AHC armature 생산물량 비교.md",
     "1.daily/2025-05-13.md",
     "0.temp/Draft_1127 runout checker.md",

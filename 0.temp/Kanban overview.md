@@ -7,8 +7,8 @@ kanban-plugin: board
 ## to do list (temp)
 
 - [ ] Fool proof 주기변경 @[[2025-05-09]] 
-	- [ ] control plan
-	- [ ] work instruction
+	- [x] control plan ✅ 2025-05-15
+	- [x] work instruction ✅ 2025-05-15
 	- [ ] check sheet
 	- [ ] 배포 및 공지
 - [ ] # FMEA training
