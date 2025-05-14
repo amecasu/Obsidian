@@ -47,10 +47,10 @@ koelsch axel 과의 대화
 
 - [x] pallette ✅ 2025-05-12
 
-- [ ] 380v 60hz
+- [x] 380v 60hz ✅ 2025-05-14
 
 - [ ] voltage stabilizer 여부
 
-- [ ] supplier
+- [x] supplier ✅ 2025-05-14
 
-- [ ] dimension of current testbench
+- [x] dimension of current testbench ✅ 2025-05-14

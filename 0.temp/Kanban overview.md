@@ -18,8 +18,8 @@ kanban-plugin: board
 	- [ ] 공사일정 수립
 	- [ ] 환경안전 서류 작성
 	- [ ]
-- [ ] # shelf life
-	영주님께 shelf life 만료 재고 중 전달 받은 리스트 requalification 여부 묻기.
+- [ ] # 1125 라인 재원조사
+	- [ ] Asset list
 - [ ] eLPC 통계 요약 방법 고려하기 - with 현구님
 
 
