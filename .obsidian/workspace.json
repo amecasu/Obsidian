@@ -97,8 +97,7 @@
               "title": "재고 조회"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/1128 와인딩 텐션.md",
+                "file": "1.daily/2025-05-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1128 와인딩 텐션"
+              "title": "Backlinks for 2025-05-13"
             }
           },
           {
@@ -293,15 +292,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3efc8bcf715ba7c7",
+  "active": "d5048dc2c69521ad",
   "lastOpenFiles": [
+    "0.temp/1128 와인딩 텐션.md",
+    "1.daily/2025-05-13.md",
     "attachments/IMG_7035.jpg",
     "attachments/IMG_7038.jpg",
     "attachments/IMG_7036.jpg",
     "attachments/IMG_7034.jpg",
     "attachments/IMG_7037.jpg",
-    "1.daily/2025-05-13.md",
-    "0.temp/1128 와인딩 텐션.md",
     "1.daily/2025-05-14.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "0.temp/재고 조회.md",
@@ -324,7 +323,6 @@
     "attachments/Pasted image 20250509143203.png",
     "attachments/Pasted image 20250509143053.png",
     "attachments/Pasted image 20250509143032.png",
-    "attachments/Pasted image 20250509142517.png",
     "attachments/QM-TQ011_2021_EN_Handout.pdf",
     "attachments/TQ013_2022_EN_Handout.pdf",
     "attachments/TQ012_2021_EN_Handout.pdf",
