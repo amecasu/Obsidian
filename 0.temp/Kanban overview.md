@@ -52,10 +52,14 @@ kanban-plugin: board
 	- 포밍기 문제이력, 어떤 치수가 문제였는지 히스토리 확인.
 
 
+## T/O
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

@@ -75,6 +75,7 @@
                   "list-collapse": [
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -97,7 +98,8 @@
               "title": "재고 조회"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.daily/2025-05-13.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-13"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -292,10 +294,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5048dc2c69521ad",
+  "active": "d75a83ef5430e367",
   "lastOpenFiles": [
-    "0.temp/1128 와인딩 텐션.md",
     "1.daily/2025-05-13.md",
+    "0.temp/1128 와인딩 텐션.md",
     "attachments/IMG_7035.jpg",
     "attachments/IMG_7038.jpg",
     "attachments/IMG_7036.jpg",
