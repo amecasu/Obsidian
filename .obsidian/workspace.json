@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/1129 온도세팅.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1129 온도세팅"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -308,8 +308,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90278d19902379c5",
+  "active": "d75a83ef5430e367",
   "lastOpenFiles": [
+    "0.temp/1129 온도세팅.md",
+    "0.temp/Kanban overview.md",
+    "0.temp/재고 조회.md",
     "attachments/Pasted image 20250515120443.png",
     "attachments/Pasted image 20250515120332.png",
     "attachments/Pasted image 20250515120307.png",
@@ -318,16 +321,12 @@
     "attachments/Pasted image 20250515120244.png",
     "attachments/Pasted image 20250515120235.png",
     "0.temp/out sourcing.md",
-    "0.temp/1129 온도세팅.md",
     "1.daily/2025-05-14.md",
-    "0.temp/재고 조회.md",
-    "0.temp/Kanban overview.md",
     "1.daily/2025-05-13.md",
     "0.temp/1128 와인딩 텐션.md",
     "attachments/IMG_7035.jpg",
     "attachments/IMG_7038.jpg",
     "attachments/IMG_7036.jpg",
-    "attachments/IMG_7034.jpg",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "0.temp/1127 1129.md",
     "0.temp/AHC armature 생산물량 비교.md",
