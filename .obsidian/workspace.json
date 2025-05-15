@@ -97,9 +97,23 @@
               "icon": "lucide-file",
               "title": "재고 조회"
             }
+          },
+          {
+            "id": "90278d19902379c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.temp/1129 온도세팅.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1129 온도세팅"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -173,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "0.temp/1129 온도세팅.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 1129 온도세팅"
             }
           },
           {
@@ -294,8 +308,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d75a83ef5430e367",
+  "active": "90278d19902379c5",
   "lastOpenFiles": [
+    "0.temp/재고 조회.md",
+    "0.temp/1129 온도세팅.md",
+    "0.temp/Kanban overview.md",
     "1.daily/2025-05-13.md",
     "0.temp/1128 와인딩 텐션.md",
     "attachments/IMG_7035.jpg",
@@ -305,8 +322,6 @@
     "attachments/IMG_7037.jpg",
     "1.daily/2025-05-14.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
-    "0.temp/재고 조회.md",
-    "0.temp/Kanban overview.md",
     "0.temp/1127 1129.md",
     "0.temp/AHC armature 생산물량 비교.md",
     "0.temp/Draft_1127 runout checker.md",
