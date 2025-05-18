@@ -21,6 +21,11 @@ kanban-plugin: board
 - [ ] # 1125 라인 재원조사
 	- [ ] Asset list
 - [ ] eLPC 통계 요약 방법 고려하기 - with 현구님
+- [ ] # MAEx
+	- KBWS TS satelite 라인 폐기
+		- 최이사님께 보고, 설비 제조사 정보 요청할 것.
+	- PUQ 
+		- Zeiss 설비 등록해제 요청할 것 - xu baosong
 
 
 ## Purchasing
