@@ -57,3 +57,7 @@ koelsch axel 과의 대화
 
 
 ---
+[[2025-05-19]]
+
+GDG tester serial number
+winding spec
