@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/0326 mae reuse 회의.md",
+                "file": "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0326 mae reuse 회의"
+              "title": "Backlinks for FPG2 보증 반송품 특이사항(기어노이즈)"
             }
           },
           {
@@ -267,14 +267,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47451f9aac35a900",
+  "active": "d8ec1d0a863c77e7",
   "lastOpenFiles": [
-    "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "1.daily/2025-05-19.md",
+    "0.temp/0326 mae reuse 회의.md",
+    "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "0.temp/Kanban overview.md",
     "0.temp/2025-05-22.md",
     "1.daily/2025-05-12.md",
-    "0.temp/0326 mae reuse 회의.md",
     "1.daily/2025-05-13.md",
     "1.daily/2025-05-14.md",
     "0.temp/0-series.md",
