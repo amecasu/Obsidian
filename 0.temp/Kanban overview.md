@@ -15,8 +15,11 @@ kanban-plugin: board
 	- [ ] 교육자료 준비
 - [ ] # eLPC
 	- [ ] L5, L4 일정 추가세팅
+		- 상무님은 혼자 진행
+		- 부사장님은 담당 플래너가 자료 프린트하여 부사장님께 confirmation 5분 전 방문 후 같이 confirmation 진행하기로 함.
+		- 관련인원에게 부사장님 confirmation 일정 주단위로 정리한 자료 같이 송부할 것.
 	- [ ] 통계요약방법 고려
-	- [ ] CW21 수 목 중 미팅 일정 잡을것.
+	- [ ] 수요일 11시 - 05/21
 - [ ] # 1125 라인 재원조사
 	- [ ] Asset list
 	- [ ] 대일감정 사전미팅 [[2025-05-22]] 오후에 전화 할 것.
@@ -26,6 +29,7 @@ kanban-plugin: board
 		- 최이사님께 보고, 설비 제조사 정보 요청할 것.
 	- PUQ 
 		- Zeiss 설비 등록해제 요청할 것 - xu baosong
+- [ ] # S-CIP -OEE, 27 29
 
 
 ## Purchasing
