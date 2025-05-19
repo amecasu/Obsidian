@@ -61,3 +61,11 @@ koelsch axel 과의 대화
 
 GDG tester serial number
 winding spec
+drawing of armature
+
+laser marking 
+사진 찍어서 
+
+laser marking system - only laser 40,000 euro...
+비싸서 40,000 유로로 안될 수 있음.
+
