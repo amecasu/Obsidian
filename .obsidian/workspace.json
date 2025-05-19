@@ -42,37 +42,8 @@
               "icon": "lucide-file",
               "title": "2025-05-19"
             }
-          },
-          {
-            "id": "d8ec1d0a863c77e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FPG2 보증 반송품 특이사항(기어노이즈)"
-            }
-          },
-          {
-            "id": "47451f9aac35a900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.temp/0326 mae reuse 회의.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0326 mae reuse 회의"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FPG2 보증 반송품 특이사항(기어노이즈)"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -267,12 +238,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8ec1d0a863c77e7",
+  "active": "f294298f4b5adf8a",
   "lastOpenFiles": [
     "1.daily/2025-05-19.md",
-    "0.temp/0326 mae reuse 회의.md",
+    "0.temp/FMEA.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "0.temp/Kanban overview.md",
+    "0.temp/0326 mae reuse 회의.md",
     "0.temp/2025-05-22.md",
     "1.daily/2025-05-12.md",
     "1.daily/2025-05-13.md",
@@ -303,7 +275,6 @@
     "0.temp/AHC SL IPD concept 검토.md",
     "0.temp/System audit 대비 summary 2025.md",
     "0.temp/Armature line transfer question.md",
-    "0.temp/FMEA.md",
     "1.daily/2025-05-09.md",
     "0.temp/포밍기 정비이력 및 문제 히스토리 파악.md",
     "attachments/QM-TQ011_2021_EN_Handout.pdf",

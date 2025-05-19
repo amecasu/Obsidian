@@ -33,6 +33,11 @@ kanban-plugin: board
 	매주 화요일 3-4시
 	- [ ] opening meeting 준비
 	- [ ]
+- [ ] # reuse Project
+	- [ ] axel 에게 메일
+		- [ ] One-pager for Balancing
+		- [ ] additional information about GDG tester
+		- [ ]
 
 
 ## Purchasing
