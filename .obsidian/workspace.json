@@ -57,7 +57,8 @@
               "title": "FPG2 보증 반송품 특이사항(기어노이즈)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-19"
             }
           },
           {
@@ -252,10 +253,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f294298f4b5adf8a",
+  "active": "d293be1b21403873",
   "lastOpenFiles": [
-    "0.temp/2025-05-22.md",
     "0.temp/Kanban overview.md",
+    "0.temp/2025-05-22.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "1.daily/2025-05-19.md",
     "1.daily/2025-05-12.md",
