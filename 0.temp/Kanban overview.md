@@ -81,6 +81,8 @@ kanban-plugin: board
 
 ## Supplier
 
+- [ ] # KCC
+	- 업체에 AKZO 입자 사이즈로 샘플 생산 요청할 것.
 
 
 
