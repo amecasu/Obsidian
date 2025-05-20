@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/0326 mae reuse 회의.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0326 mae reuse 회의"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -267,10 +267,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fb555e795e5f82b",
+  "active": "eeba29066562564a",
   "lastOpenFiles": [
-    "0.temp/Kanban overview.md",
     "0.temp/0326 mae reuse 회의.md",
+    "0.temp/Kanban overview.md",
     "0.temp/MAEx.md",
     "0.temp/SAP 에서 자산 정보 보는법.md",
     "attachments/Pasted image 20250520133532.png",
