@@ -263,14 +263,15 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2fb555e795e5f82b",
   "lastOpenFiles": [
     "0.temp/Kanban overview.md",
-    "0.temp/MAEx.md",
     "0.temp/0326 mae reuse 회의.md",
+    "0.temp/MAEx.md",
     "0.temp/SAP 에서 자산 정보 보는법.md",
     "attachments/Pasted image 20250520133532.png",
     "attachments/Pasted image 20250520133323.png",

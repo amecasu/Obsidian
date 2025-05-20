@@ -57,11 +57,11 @@ koelsch axel 과의 대화
 ---
 [[2025-05-19]]
 
-GDG tester serial number
-winding scheme specification
+- [ ] GDG tester serial number
+- [ ] winding scheme specification
 drawing of armature
 
-laser marking 
+- [ ] 1laser marking 
 사진 찍어서 
 
 laser marking system - only laser 40,000 euro...
