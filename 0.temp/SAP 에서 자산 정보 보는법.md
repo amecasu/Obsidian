@@ -10,4 +10,9 @@ SAP
 # as03
 
  inventory number 기입
-![[Pasted image 20250520133532.png]]500669-0000
+![[Pasted image 20250520133532.png]]
+
+### inventory number
+
+- old ccf/ecf - 326, 378
+- old hvac - 324, 376
