@@ -25,22 +25,14 @@
             "id": "eeba29066562564a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0.temp/Kanban overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "1.daily/2025-05-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban overview"
+              "icon": "lucide-file",
+              "title": "2025-05-20"
             }
           },
           {
@@ -146,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-20"
             }
           },
           {
@@ -269,8 +261,8 @@
   },
   "active": "eeba29066562564a",
   "lastOpenFiles": [
-    "0.temp/0326 mae reuse 회의.md",
     "0.temp/Kanban overview.md",
+    "0.temp/0326 mae reuse 회의.md",
     "0.temp/MAEx.md",
     "0.temp/SAP 에서 자산 정보 보는법.md",
     "attachments/Pasted image 20250520133532.png",

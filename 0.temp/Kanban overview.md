@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] Fool proof 주기변경 @[[2025-05-09]] 
 	- [x] control plan ✅ 2025-05-15
 	- [x] work instruction ✅ 2025-05-15
-	- [ ] check sheet
+	- [x] check sheet ✅ 2025-05-20
 	- [ ] 배포 및 공지
 - [ ] # FMEA training
 	- [ ] 교육자료 준비
@@ -31,12 +31,12 @@ kanban-plugin: board
 		- Zeiss 설비 등록해제 요청할 것 - xu baosong
 - [ ] # S-CIP -OEE, 27 29
 	매주 화요일 3-4시
-	- [ ] opening meeting 준비
+	- [x] opening meeting 준비 ✅ 2025-05-20
 	- [ ]
 - [ ] # reuse Project
-	- [ ] axel 에게 메일
-		- [ ] One-pager for Balancing
-		- [ ] additional information about GDG tester
+	- [x] axel 에게 메일 ✅ 2025-05-20
+		- [x] One-pager for Balancing ✅ 2025-05-20
+		- [x] additional information about GDG tester ✅ 2025-05-20
 		- [ ]
 
 
