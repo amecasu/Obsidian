@@ -16,3 +16,21 @@ SAP
 
 - old ccf/ecf - 326, 378
 - old hvac - 324, 376
+
+
+
+S:\02_Group\Asset_register_card
+
+
+
+
+ref
+MAE name : Shaft inserting M/C  
+Manufacturer : Kwangduk ANT
+
+  
+Year of manufacture : 29years
+
+Cost center : 526324
+
+Inventory number
