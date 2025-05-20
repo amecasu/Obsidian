@@ -25,10 +25,36 @@
             "id": "eeba29066562564a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "kanban",
+              "state": {
+                "file": "0.temp/Kanban overview.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban overview"
+            }
+          },
+          {
+            "id": "2fb555e795e5f82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.temp/0326 mae reuse 회의.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0326 mae reuse 회의"
             }
           }
         ],
@@ -106,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -229,11 +256,11 @@
   "active": "eeba29066562564a",
   "lastOpenFiles": [
     "1.daily/2025-05-20.md",
-    "1.daily/2025-05-19.md",
+    "0.temp/0326 mae reuse 회의.md",
     "0.temp/Kanban overview.md",
+    "1.daily/2025-05-19.md",
     "0.temp/FMEA.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
-    "0.temp/0326 mae reuse 회의.md",
     "0.temp/2025-05-22.md",
     "1.daily/2025-05-12.md",
     "1.daily/2025-05-13.md",

@@ -67,4 +67,4 @@ laser marking
 laser marking system - only laser 40,000 euro...
 비싸서 40,000 유로로 안될 수 있음.
 
-rudieger 랑 이야기했는데, 멕시코에 있는 장비를 한국으로 바 로 가져오고, rebuild에 필요한 작업을 출장식으로 지원와서 하는것으로 이야기가 나옴. 한국에서도 maintenance support 필요.
+rudieger 랑 이야기했는데, 멕시코에 있는 장비를 한국으로 바로 가져오고, rebuild에 필요한 작업을 출장식으로 지원와서 하는것으로 이야기가 나옴. 한국에서도 maintenance support 필요.
