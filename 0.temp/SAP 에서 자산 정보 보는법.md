@@ -8,4 +8,6 @@ SAP
 
 
 # as03
-anufacturer
+
+ inventory number 기입
+![[Pasted image 20250520133532.png]]500669-0000
