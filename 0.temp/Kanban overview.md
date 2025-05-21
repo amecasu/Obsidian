@@ -105,7 +105,7 @@ kanban-plugin: board
 	- 설비 파라미터 단일값 세팅
 	- 샘플 생산
 - [ ] # 48V Seat drive sample
-	- [ ] 모터 제작 후 EAC 전달 및 품번공유🔽
+	- [ ] 모터 제작 후 EAC 전달 및 품번공유
 
 
 ## Supplier
@@ -114,10 +114,20 @@ kanban-plugin: board
 	- 업체에 AKZO 입자 사이즈로 샘플 생산 요청할 것.
 
 
+## 개선
+
+- [ ] # 1129 아마추어 이송플레이트 
+	- [ ] 도면 제도
+	- [ ] 경량화
+	- [ ]
+- [ ] # 1127 밸런싱 측 불량구분
+	- [ ] ㄹ
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
