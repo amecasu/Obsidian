@@ -39,6 +39,8 @@ kanban-plugin: board
 		- [x] additional information about GDG tester ✅ 2025-05-20
 		- [ ]
 - [ ] # Document viewer 신청
+	- [x]  ✅ 2025-05-21
+	- [ ] 완료
 	- [ ]
 
 
