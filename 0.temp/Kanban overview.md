@@ -38,6 +38,9 @@ kanban-plugin: board
 	- [x] axel 에게 메일 ✅ 2025-05-20
 		- [x] One-pager for Balancing ✅ 2025-05-20
 		- [x] additional information about GDG tester ✅ 2025-05-20
+		- [ ] xu baosong에게 리스트 송부[[MAE reuse - manufacturer list]]
+		- [ ] maex 등록
+		- [ ] publish 요청
 		- [ ]
 - [ ] # Document viewer 신청
 	- [x]  ✅ 2025-05-21
