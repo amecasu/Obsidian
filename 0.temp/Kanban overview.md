@@ -38,6 +38,8 @@ kanban-plugin: board
 		- [x] One-pager for Balancing ✅ 2025-05-20
 		- [x] additional information about GDG tester ✅ 2025-05-20
 		- [ ]
+- [ ] # Document viewer 신청
+	- [ ]
 
 
 ## Purchasing

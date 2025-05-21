@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/2025_RBKB Special System Audit.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025_RBKB Special System Audit"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -267,12 +267,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b7af73d46e5f9d8",
+  "active": "eeba29066562564a",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250521100337.png",
-    "attachments/Pasted image 20250521100335.png",
     "1.daily/2025-05-21.md",
     "0.temp/2025_RBKB Special System Audit.md",
+    "attachments/Pasted image 20250521100337.png",
+    "attachments/Pasted image 20250521100335.png",
     "1.daily/2025-05-20.md",
     "0.temp/0326 mae reuse 회의.md",
     "0.temp/MAEx.md",
@@ -300,7 +300,6 @@
     "attachments/Pasted image 20250515120255.png",
     "attachments/Pasted image 20250515120246.png",
     "attachments/Pasted image 20250515120244.png",
-    "attachments/Pasted image 20250515120235.png",
     "0.temp/out sourcing.md",
     "0.temp/1127 1129.md",
     "0.temp/AHC armature 생산물량 비교.md",
