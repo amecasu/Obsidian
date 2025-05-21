@@ -34,3 +34,6 @@ fmea 공정번호랑 c.plan, WI 공정번호 같아야함.
 6월 감사 전에 수정해야함.
 
 특별특성 지정은 공정 레벨에서, (5M 말고,) 분류에서 지정가능
+
+# eLPC
+output - updated pla, checklist , guide
