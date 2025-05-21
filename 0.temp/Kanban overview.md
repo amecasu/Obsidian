@@ -29,6 +29,7 @@ kanban-plugin: board
 		- 최이사님께 보고, 설비 제조사 정보 요청할 것.
 	- PUQ 
 		- Zeiss 설비 등록해제 요청할 것 - xu baosong
+	- [ ] 리스트 올릴 것.
 - [ ] # S-CIP -OEE, 27 29
 	매주 화요일 3-4시
 	- [x] opening meeting 준비 ✅ 2025-05-20
