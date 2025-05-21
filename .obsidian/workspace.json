@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/MAE reuse - manufacturer list.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAE reuse - manufacturer list"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -281,10 +281,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eeba29066562564a",
+  "active": "70ba35981b44e545",
   "lastOpenFiles": [
-    "0.temp/Kanban overview.md",
     "0.temp/MAE reuse - manufacturer list.md",
+    "0.temp/Kanban overview.md",
     "1.daily/2025-05-21.md",
     "0.temp/2025_RBKB Special System Audit.md",
     "attachments/Pasted image 20250521100337.png",

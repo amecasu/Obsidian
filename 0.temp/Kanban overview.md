@@ -75,6 +75,7 @@ kanban-plugin: board
 	- [ ] 테스터 고장내역, downtime 정리
 	- [ ] 인덱스모터 구매 건의
 	- [ ]
+- [ ] # AHC arm용 수동바란스기 구매
 
 
 ## 불량
