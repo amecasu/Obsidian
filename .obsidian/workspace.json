@@ -25,23 +25,14 @@
             "id": "70ba35981b44e545",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0.temp/Kanban overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "1.daily/2025-05-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban overview"
+              "icon": "lucide-file",
+              "title": "2025-05-22"
             }
           },
           {
@@ -59,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/0326 mae reuse 회의.md",
+                "file": "1.daily/2025-05-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0326 mae reuse 회의"
+              "title": "Backlinks for 2025-05-22"
             }
           },
           {
@@ -254,18 +245,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fb555e795e5f82b",
+  "active": "70ba35981b44e545",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
     "1.daily/2025-05-22.md",
+    "0.temp/2025-05-22.md",
+    "0.temp/0326 mae reuse 회의.md",
     "1.daily/2025-05-23.md",
     "1.daily/2025-05-20.md",
     "1.daily/2025-05-21.md",
     "0.temp/MAE reuse - manufacturer list.md",
     "0.temp/2025_RBKB Special System Audit.md",
-    "0.temp/Kanban overview.md",
     "attachments/Pasted image 20250521100337.png",
     "attachments/Pasted image 20250521100335.png",
-    "0.temp/0326 mae reuse 회의.md",
     "0.temp/MAEx.md",
     "0.temp/SAP 에서 자산 정보 보는법.md",
     "attachments/Pasted image 20250520133532.png",
@@ -273,7 +265,6 @@
     "1.daily/2025-05-19.md",
     "0.temp/FMEA.md",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
-    "0.temp/2025-05-22.md",
     "1.daily/2025-05-12.md",
     "1.daily/2025-05-13.md",
     "1.daily/2025-05-14.md",
