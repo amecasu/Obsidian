@@ -84,8 +84,7 @@
               "title": "Drawing eLPC statistic"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/MAEx.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAEx"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -280,8 +279,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fb555e795e5f82b",
+  "active": "f294298f4b5adf8a",
   "lastOpenFiles": [
+    "0.temp/MAEx.md",
     "0.temp/0326 mae reuse 회의.md",
     "1.daily/2025-05-22.md",
     "0.temp/Kanban overview.md",
@@ -297,7 +297,6 @@
     "0.temp/MAE reuse - manufacturer list.md",
     "attachments/Pasted image 20250521100337.png",
     "attachments/Pasted image 20250521100335.png",
-    "0.temp/MAEx.md",
     "0.temp/SAP 에서 자산 정보 보는법.md",
     "attachments/Pasted image 20250520133532.png",
     "attachments/Pasted image 20250520133323.png",
