@@ -23,6 +23,7 @@ Acquisition value
 
 - [ ] KBWS 해당 라인 코스트센터 정리
 - [ ] asset balance 확인해서 25000EUR 이상 설비들 리스트업
+- [ ] whole line 
 - [ ] 해당 설비 필요 정보 요청
 	전달필요 내용
 		- 사진
