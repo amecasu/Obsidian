@@ -71,9 +71,21 @@
               "icon": "lucide-file",
               "title": "eLPC meeting 0522"
             }
+          },
+          {
+            "id": "6918dcf31394a0f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-22 13.16.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-22 13.16.36.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/eLPC meeting 0522.md",
+                "file": "Excalidraw/Drawing 2025-05-22 13.16.36.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for eLPC meeting 0522"
+              "title": "Backlinks for Drawing 2025-05-22 13.16.36.excalidraw"
             }
           },
           {
@@ -268,15 +280,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9797557a434f677f",
+  "active": "6918dcf31394a0f4",
   "lastOpenFiles": [
-    "0.temp/2025_RBKB Special System Audit.md",
-    "0.temp/Kanban overview.md",
-    "1.daily/2025-05-22.md",
-    "0.temp/System audit 대비 summary 2025.md",
+    "Excalidraw/Drawing 2025-05-22 13.16.36.excalidraw.md",
     "0.temp/eLPC meeting 0522.md",
-    "0.temp/2025-05-22.md",
     "0.temp/0326 mae reuse 회의.md",
+    "1.daily/2025-05-22.md",
+    "0.temp/Kanban overview.md",
+    "0.temp/2025_RBKB Special System Audit.md",
+    "0.temp/System audit 대비 summary 2025.md",
+    "0.temp/2025-05-22.md",
     "1.daily/2025-05-23.md",
     "1.daily/2025-05-20.md",
     "1.daily/2025-05-21.md",
@@ -307,7 +320,6 @@
     "attachments/Pasted image 20250515120246.png",
     "attachments/Pasted image 20250515120244.png",
     "0.temp/out sourcing.md",
-    "0.temp/1127 1129.md",
     "attachments/QM-TQ011_2021_EN_Handout.pdf",
     "attachments/TQ013_2022_EN_Handout.pdf",
     "attachments/TQ012_2021_EN_Handout.pdf",
