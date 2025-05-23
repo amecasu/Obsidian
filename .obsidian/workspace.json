@@ -156,8 +156,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks for 2025-05-23"
@@ -267,11 +267,10 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f294298f4b5adf8a",
+  "active": "0607b4fc80ac1610",
   "lastOpenFiles": [
     "0.temp/Kanban overview.md",
     "0.temp/MAEx.md",
