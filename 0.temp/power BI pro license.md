@@ -1,3 +1,7 @@
+
+
+
+# https://inside-docupedia.bosch.com/confluence2/display/MSFabric/Fairplay+Guidelines (Fairplay guideline)
 # Terms & Conditions (Data Security)
 
 IMPORTANT!
