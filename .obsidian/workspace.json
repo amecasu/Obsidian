@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.temp/MAEx.md",
+                "file": "1.daily/2025-05-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAEx"
+              "title": "2025-05-26"
             }
           },
           {
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-26"
             }
           },
           {
@@ -251,20 +251,21 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "9797557a434f677f",
+  "active": "2fb555e795e5f82b",
   "lastOpenFiles": [
+    "0.temp/MAEx.md",
+    "2.weekly/2025-W22.md",
+    "0.temp/Kanban overview.md",
     "Excalidraw/Drawing eLPC statistic.md",
     "0.temp/power BI pro license.md",
-    "2.weekly/2025-W22.md",
     "1.daily/2025-05-23.md",
     "1.daily/2025-05-22.md",
     "1.daily/2025-05-26.md",
-    "0.temp/MAEx.md",
     "0.temp/KBWS scrapping.md",
-    "0.temp/Kanban overview.md",
     "0.temp/eLPC meeting 0522.md",
     "0.temp/Untitled Kanban 4.md",
     "0.temp/0326 mae reuse 회의.md",
