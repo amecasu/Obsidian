@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.weekly/2025-W22.md",
+                "file": "0.temp/MAEx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W22"
+              "title": "MAEx"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.weekly/2025-W22.md",
+                "file": "0.temp/MAEx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-W22"
+              "title": "Backlinks for MAEx"
             }
           },
           {
@@ -213,14 +213,15 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "markwhen:Create new Markwhen file": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f294298f4b5adf8a",
   "lastOpenFiles": [
+    "2.weekly/2025-W22.md",
     "1.daily/2025-05-26.md",
     "0.temp/MAEx.md",
-    "2.weekly/2025-W22.md",
     "0.temp/Kanban overview.md",
     "Excalidraw/Drawing eLPC statistic.md",
     "0.temp/power BI pro license.md",
