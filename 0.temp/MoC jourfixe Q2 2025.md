@@ -12,3 +12,5 @@ Presentation: [https://connect.bosch.com/files/app/s/OOkXY9AEPDFpO2ba4vvPF5arad3
   
 
 - Podhorszky Eniko Laura (EM-PE/PJM2-Bp)
+- ![[Pasted image 20250527162905.png]]
+- 

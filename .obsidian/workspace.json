@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "0.temp/MoC jourfixe Q2 2025.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for MoC jourfixe Q2 2025"
             }
           },
           {
@@ -255,11 +255,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2081c6154c453b1",
+  "active": "d45b49b7807ed345",
   "lastOpenFiles": [
-    "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
+    "attachments/Pasted image 20250527162905.png",
     "1.daily/2025-05-26.md",
     "0.temp/Kanban overview.md",
+    "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "Kanban/# FPG2 기어노이즈 - 포밍 정비이력 조사 건.md",
     "0.temp/MoC jourfixe Q2 2025.md",
     "1.daily/2025-05-27.md",
@@ -287,7 +288,6 @@
     "attachments/Pasted image 20250520133323.png",
     "1.daily/2025-05-19.md",
     "0.temp/FMEA.md",
-    "1.daily/2025-05-12.md",
     "attachments/0-series report.msg",
     "attachments/FW_ 삼동 외주조치  ECR 사전미팅.msg",
     "attachments/Pasted image 20250515120443.png",
