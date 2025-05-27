@@ -114,7 +114,8 @@ kanban-plugin: board
 	- 설비 파라미터 단일값 세팅
 	- 샘플 생산
 - [ ] # 48V Seat drive sample
-	- [ ] 모터 제작 후 EAC 전달 및 품번공유
+	- [x] 모터 제작 후 EAC 전달 및 품번공유 ✅ 2025-05-27
+- [ ] 48V WLD
 
 
 ## Supplier
