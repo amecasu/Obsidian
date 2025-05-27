@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.temp/MoC jourfixe Q2 2025.md",
+                "file": "0.temp/8d.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoC jourfixe Q2 2025"
+              "title": "8d"
             }
           }
         ],
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/MoC jourfixe Q2 2025.md",
+                "file": "0.temp/8d.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MoC jourfixe Q2 2025"
+              "title": "Backlinks for 8d"
             }
           },
           {
@@ -257,12 +257,12 @@
   },
   "active": "d45b49b7807ed345",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250527162905.png",
-    "1.daily/2025-05-26.md",
+    "0.temp/MoC jourfixe Q2 2025.md",
     "0.temp/Kanban overview.md",
+    "1.daily/2025-05-26.md",
+    "attachments/Pasted image 20250527162905.png",
     "0.temp/FPG2 보증 반송품 특이사항(기어노이즈).md",
     "Kanban/# FPG2 기어노이즈 - 포밍 정비이력 조사 건.md",
-    "0.temp/MoC jourfixe Q2 2025.md",
     "1.daily/2025-05-27.md",
     "0.temp/MAEx.md",
     "2.weekly/2025-W22.md",
@@ -294,7 +294,6 @@
     "attachments/Pasted image 20250515120332.png",
     "attachments/Pasted image 20250515120307.png",
     "attachments/Pasted image 20250515120255.png",
-    "attachments/Pasted image 20250515120246.png",
     "attachments/QM-TQ011_2021_EN_Handout.pdf",
     "attachments/TQ013_2022_EN_Handout.pdf",
     "attachments/TQ012_2021_EN_Handout.pdf",
