@@ -52,6 +52,7 @@ kanban-plugin: board
 - [ ] # 1129 line patrol 2025
 	- [x] 테스터 불량 마스터 관리여부, 테스터 작동방식 스터디 후 강지훈 반장님꼐 회신 ✅ 2025-05-23
 	- [ ] 불량마스터 제작 - HT, CSC, HP
+	- 견본품 절차서 : \\bosch.com\dfsrb\DfsKR\LOC\Buy\Share\02_Group\RBKB_MH_PI\5_RBKB_JI\Korean\QMM\JQM
 - [ ] # Special audit 
 	- [ ] Web action 등록 
 	- [https://rb-wam.bosch.com/caq/iq-auditp/ADMASSUX?AUDIT=AD152543](https://rb-wam.bosch.com/caq/iq-auditp/ADMASSUX?AUDIT=AD152543)
