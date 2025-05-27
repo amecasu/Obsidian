@@ -31,7 +31,7 @@ kanban-plugin: board
 		- 최이사님께 보고, 설비 제조사 정보 요청할 것.
 	- PUQ 
 		- Zeiss 설비 등록해제 요청할 것 - xu baosong
-	- [ ] manufacturer 업데이트 되면 리스트 설비들 MAEx에 올릴 것.
+	- [x] manufacturer 업데이트 되면 리스트 설비들 MAEx에 올릴 것. ✅ 2025-05-27
 	- [ ] scrap SSF BV에 작성해서 올릴 것.
 - [ ] # S-CIP -OEE, 27 29
 	매주 화요일 3-4시
@@ -42,8 +42,8 @@ kanban-plugin: board
 		- [x] One-pager for Balancing ✅ 2025-05-20
 		- [x] additional information about GDG tester ✅ 2025-05-20
 		- [x] xu baosong에게 리스트 송부[[MAE reuse - manufacturer list]] ✅ 2025-05-26
-		- [ ] maex 등록
-		- [ ] publish 요청
+		- [x] maex 등록 ✅ 2025-05-27
+		- [x] publish 요청 ✅ 2025-05-27
 		- [ ]
 - [ ] # Document viewer 신청
 	- [x]  ✅ 2025-05-21

@@ -44,8 +44,7 @@
               "title": "Kanban overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/Kanban overview.md",
+                "file": "1.daily/2025-05-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanban overview"
+              "title": "Backlinks for 2025-05-26"
             }
           },
           {
@@ -241,13 +240,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2081c6154c453b1",
+  "active": "f294298f4b5adf8a",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
     "1.daily/2025-05-26.md",
     "1.daily/2025-05-27.md",
     "0.temp/MAEx.md",
     "2.weekly/2025-W22.md",
-    "0.temp/Kanban overview.md",
     "Excalidraw/Drawing eLPC statistic.md",
     "0.temp/power BI pro license.md",
     "1.daily/2025-05-23.md",
