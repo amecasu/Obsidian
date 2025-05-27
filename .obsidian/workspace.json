@@ -58,8 +58,7 @@
               "title": "MoC jourfixe Q2 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.temp/MoC jourfixe Q2 2025.md",
+                "file": "1.daily/2025-05-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MoC jourfixe Q2 2025"
+              "title": "Backlinks for 2025-05-26"
             }
           },
           {
@@ -255,11 +254,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d45b49b7807ed345",
+  "active": "f294298f4b5adf8a",
   "lastOpenFiles": [
+    "0.temp/Kanban overview.md",
     "0.temp/MoC jourfixe Q2 2025.md",
     "1.daily/2025-05-26.md",
-    "0.temp/Kanban overview.md",
     "1.daily/2025-05-27.md",
     "0.temp/MAEx.md",
     "2.weekly/2025-W22.md",
