@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.weekly/2025-W25.md",
+                "file": "0.temp/Kanban overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-W25"
+              "title": "Backlinks for Kanban overview"
             }
           },
           {
@@ -283,11 +283,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91b7d2a54ed35d6f",
+  "active": "f2081c6154c453b1",
   "lastOpenFiles": [
-    "0.temp/한도견본제작.md",
-    "2.weekly/2025-W25.md",
     "1.daily/2025-05-28.md",
+    "2.weekly/2025-W25.md",
+    "0.temp/한도견본제작.md",
     "0.temp/8d.md",
     "1.daily/2025-05-26.md",
     "1.daily/2025-05-01.md",
