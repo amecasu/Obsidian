@@ -36,6 +36,7 @@ kanban-plugin: board
 - [ ] # S-CIP -OEE, 27 29
 	매주 화요일 3-4시
 	- [x] opening meeting 준비 ✅ 2025-05-20
+	- [ ] 라인 고장내역 설비별로 dataset 제작
 	- [ ]
 - [ ] # reuse Project
 	- [x] axel 에게 메일 ✅ 2025-05-20
