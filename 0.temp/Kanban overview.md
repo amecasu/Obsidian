@@ -32,7 +32,6 @@ kanban-plugin: board
 	- PUQ 
 		- Zeiss 설비 등록해제 요청할 것 - xu baosong
 	- [x] manufacturer 업데이트 되면 리스트 설비들 MAEx에 올릴 것. ✅ 2025-05-27
-	- [ ] scrap SSF BV에 작성해서 올릴 것.
 - [ ] # S-CIP -OEE, 27 29
 	매주 화요일 3-4시
 	- [x] opening meeting 준비 ✅ 2025-05-20
