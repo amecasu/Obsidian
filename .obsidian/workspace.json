@@ -194,16 +194,6 @@
             }
           },
           {
-            "id": "acb1a3d1587036d6",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "a2787b5bfa882695",
             "type": "leaf",
             "state": {
