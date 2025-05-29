@@ -34,10 +34,14 @@
             "id": "bb2fd4fa96bafcb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.daily/2025-05-29.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-29"
             }
           }
         ],
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.daily/2025-05-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-05-29"
             }
           },
           {
@@ -237,6 +242,7 @@
   },
   "active": "bb2fd4fa96bafcb5",
   "lastOpenFiles": [
+    "1.daily/2025-06-02.md",
     "0.temp/Kanban overview.md",
     "Templates/Daily work.md",
     "Templates/Failure report.md",
@@ -263,7 +269,6 @@
     "0.temp/MAEx.md",
     "Excalidraw/Drawing eLPC statistic.md",
     "0.temp/power BI pro license.md",
-    "1.daily/2025-05-22.md",
     "attachments/Pasted Image 20250522131944_725.png",
     "attachments/Pasted image 20250521100337.png",
     "attachments/Pasted image 20250521100335.png",
