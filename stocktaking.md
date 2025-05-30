@@ -20,3 +20,4 @@ reason code : M800, M900
 -> 전산조정사유 담긴 1장, SAP data 붙인 1장 프린트해서 보고 및 사인받고 저장, 스캔 및 파일철
 
 
+(저장위치)[\\bosch.com\dfsrb\DfsKR\LOC\Buy\Department\MSE\MSE_AS\1.MSE_AS\Stock_taking\2025]
